@@ -1,4 +1,4 @@
-# Data-Scince-Nigeria-2019
+# Data-Science-Nigeria-2019
 Data Science Nigeria 2019 in-class Kaggle competition
 
 CASE STUDY: YAKUB TRADING GROUP - ALGORITHMIC STAFF PROMOTION
